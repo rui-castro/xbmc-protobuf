@@ -1,3 +1,6 @@
+[B]2.6.1[/B]
+- Updated lib to version 2.6.1 from https://developers.google.com/protocol-buffers/
+
 [B]2.4.2[/B]
 - fix namespace declaration
 

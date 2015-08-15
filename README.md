@@ -1,4 +1,4 @@
 xbmc-protobuf
 =============
 
-protobuf packed for XBMC
+protobuf packed for KODI/XBMC
